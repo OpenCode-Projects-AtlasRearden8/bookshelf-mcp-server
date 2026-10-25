@@ -1,7 +1,13 @@
-__pycache__/
-*.py[cod]
-bookshelf_data/
+*.json.*.tmp
 *.json.1
 *.json.2
 *.json.3
-*.json.*.tmp
+*.py[cod]
+*.pyc
+.env
+.env.*
+.venv/
+__pycache__/
+bookshelf_data/
+dist/*.tmp
+node_modules/
