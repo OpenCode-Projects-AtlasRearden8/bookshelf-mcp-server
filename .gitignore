@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+bookshelf_data/
+*.json.1
+*.json.2
+*.json.3
+*.json.*.tmp

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "b-1",
+      "title": "The Massive AI Manual",
+      "author": "Dylan Asdale",
+      "status": "reading",
+      "themes": ["ai", "beginners", "plain-english"],
+      "notes": [
+        {
+          "text": "Agents chapter: explain MCP servers with a real tool example first, theory second.",
+          "added": "2026-10-01T09:00:00+00:00"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Explain like a friend would: plain English, step by step, never condescending.",
+          "page": "3",
+          "added": "2026-10-01T09:05:00+00:00"
+        }
+      ],
+      "take": "",
+      "finished_on": null,
+      "created": "2026-10-01T09:00:00+00:00",
+      "updated": "2026-10-01T09:05:00+00:00"
+    },
+    {
+      "id": "b-2",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "status": "finished",
+      "themes": ["focus", "productivity"],
+      "notes": [
+        {
+          "text": "Rituals beat willpower: pick a set block and a shutdown ritual for FFXIV nights.",
+          "added": "2026-09-12T21:30:00+00:00"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Clarity about what matters provides clarity about what does not.",
+          "page": "220",
+          "added": "2026-09-12T21:20:00+00:00"
+        }
+      ],
+      "take": "Focus is a trainable skill, not a personality trait.",
+      "finished_on": "2026-09-12",
+      "created": "2026-09-01T18:00:00+00:00",
+      "updated": "2026-09-12T21:30:00+00:00"
+    },
+    {
+      "id": "b-3",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "status": "want to read",
+      "themes": ["business", "small-business"],
+      "notes": [],
+      "quotes": [],
+      "take": "",
+      "finished_on": null,
+      "created": "2026-10-10T12:00:00+00:00",
+      "updated": "2026-10-10T12:00:00+00:00"
+    }
+  ]
+}
